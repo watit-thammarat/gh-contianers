@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": 0,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/tongnakub/Downloads/ghc-contianer/.github/workflows/deploy.yml"
+  }
+}
